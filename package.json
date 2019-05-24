@@ -1,10 +1,10 @@
 {
-  "name": "monokai",
+  "name": "monokai-dustin",
   "theme": "syntax",
-  "version": "0.24.0",
-  "private": true,
+  "version": "0.0.1",
+  "private": false,
   "description": "A monokai theme",
-  "repository": "https://github.com/kevinsawicki/monokai",
+  "repository": "https://github.com/dustincaruso/monokai-dustin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"

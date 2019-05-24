@@ -1,4 +1,4 @@
-# Monokai theme
+# Monokai-dustin theme
 
 A monokai syntax theme for Atom.
 
